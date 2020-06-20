@@ -153,7 +153,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [x] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [x] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/) done but not 100%
+- [ ] [Object recognition](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+
 
 ## Machine learning is fun
 - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
