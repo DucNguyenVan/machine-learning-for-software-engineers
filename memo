@@ -20,3 +20,5 @@ nên dùng regularization để giảm trọng số của từng các feature đ
 
 
 
+-
+X là feature, theta là parameter
