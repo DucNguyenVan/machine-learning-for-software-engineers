@@ -10,7 +10,7 @@ Việc ta cần phải làm là tìm ra vector theta sao cho cost function nhỏ
 Để tìm ra vector theta chuẩn nhất, thì đầu tiên phải lập 1 cost function, tính toán cost với đầu vào là X, y và theta kiểm thử.
 Sau đó dùng thuật toán nào đó  (vd như gradient descent) để test tất cả các theta có thể, mục tiêu là tìm ra theta với output là cost nhỏ nhất.
 cost = cost_function(X, y, theta) sao cho cost nhỏ nhất.
-
+cost = (hx - y)^2
 khi tìm đc theta tốt nhất cho h(x), thì dùng theta này để dự đoán kết qủa bất kỳ đc.
 
 
@@ -22,3 +22,10 @@ nên dùng regularization để giảm trọng số của từng các feature đ
 
 -
 X là feature, theta là parameter
+
+
+-
+
+cách chọn lambda
+thử từng giá trị
+0, 0.01, 0.02, 0.04 .... 10
